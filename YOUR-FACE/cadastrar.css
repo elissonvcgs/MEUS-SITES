@@ -1,0 +1,35 @@
+.tabela td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabela{
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    
+}
+
+body{
+    background-color: rgb(255,255, 205);
+}
+
+.voltar{
+    border:  solid 0px;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    width: 140px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-right: 5px;
+    background-color: rgb(232,226, 174);
+    font-size: 25px;
+}
+
+.tabela th{
+    font-size: 40px;
+    padding-bottom: 30px;
+}

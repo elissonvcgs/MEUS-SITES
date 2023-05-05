@@ -1,0 +1,35 @@
+.saber_mais2 h1{
+    text-align: center;
+    text-decoration: underline;
+    border: solid 1px;
+    height: 50px;
+    padding: 20px;
+    background-color: rgb(255, 255, 205);
+}
+
+.saber_mais2 p{
+    font-size: 20px;
+    font-style: Arial;
+}
+
+#lista{
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(255, 255, 238);
+}
+
+.voltar{
+    border:  solid 0px;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    width: 140px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-right: 5px;
+    background-color: rgb(232,226, 174);
+    font-size: 25px;
+}

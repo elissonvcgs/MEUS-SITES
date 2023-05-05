@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+}
+
+.pesquisar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    padding-top: 25px;
+    border: none;
+}
+
+#btnbusca{
+    height: 19px;
+    display: flex;
+    justify-content: left 40px;
+}
+
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 20px;
+    justify-content: space-evenly;
+}
+
+#cadastrar{
+    display: flex;
+    align-items: center;    
+    border:  solid 0px;
+    padding: top 10px;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 160px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 5px;
+    background-color: rgb(232,226, 174);
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+body{
+    background-color: rgb(255, 255, 238);
+}
+
+.header{
+    border: solid 1px;
+    justify-content: space-between;
+}
+
+.destaques{
+    border: solid 1px;
+    height: 300px;
+    background-color: rgb(255, 255, 205);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.produto00{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.produto01{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.produto1{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+
+
+.produto2{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto3{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto4{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto5{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto6{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto7{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto8{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto9{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto10{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto11{
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.produto12{
+    border: solid 1px;
+    height: 203px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 205);
+}
+
+.sobre{
+    border: solid 1px;
+    background-color: rgb(255, 255, 205);
+}
+
+.sobre p{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+.saber_mais{
+    display: flex;
+    border: solid 1px;
+    height: 30px;
+    width: 100px;
+    border-top-right-radius:  10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color:  rgb(247, 247, 164); ; 
+}
+
+.saber_mais a{
+    display: flex;
+    padding-left: 20px;
+    size: 70px;
+    text-align: center;
+}
+
+.tabela{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.instagram{
+    display: flex;
+    height: 20px;
+    padding-left:10px
+}
+
+.whatsapp{
+    display: flex;
+    height: 20px;
+    padding-left: 10px;
+}
